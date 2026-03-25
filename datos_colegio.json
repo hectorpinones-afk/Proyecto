@@ -90,9 +90,37 @@
         "rut": "7.127.431-4",
         "rol": "Docente",
         "icon": "👨‍🏫",
-        "usados": 0.0,
-        "historial": [],
-        "visible": false
+        "usados": 1.0,
+        "historial": [
+            {
+                "fecha": "25-03-2026 al 25-03-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 1.0
+            }
+        ],
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "6:00",
+                "out": "17:00"
+            },
+            "Martes": {
+                "in": "6:00",
+                "out": "17:00"
+            },
+            "Miércoles": {
+                "in": "6:00",
+                "out": "17:00"
+            },
+            "Jueves": {
+                "in": "6:00",
+                "out": "17:00"
+            },
+            "Viernes": {
+                "in": "6:00",
+                "out": "17:00"
+            }
+        }
     },
     {
         "nombre": "Aljandra Anriette",
