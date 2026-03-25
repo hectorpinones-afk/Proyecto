@@ -244,15 +244,5 @@
         "usados": 0.0,
         "historial": [],
         "visible": false
-    },
-    {
-        "nombre": "pepe",
-        "apellido": "pepin",
-        "rut": "132312332-k",
-        "rol": "Docente",
-        "icon": "👩‍🏫",
-        "usados": 0.0,
-        "historial": [],
-        "visible": false
     }
 ]
