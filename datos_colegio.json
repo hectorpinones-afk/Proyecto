@@ -1,0 +1,242 @@
+[
+    {
+        "nombre": "Mariela Fernanda",
+        "apellido": "Maldonado Castillo ",
+        "rut": "12.569.518-3",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": true
+    },
+    {
+        "nombre": "Angelica Del Carmen",
+        "apellido": "Rojas Droguett ",
+        "rut": "10.755.490-4",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Maria Soledad",
+        "apellido": "Hernandez Cerda ",
+        "rut": "9.675.308-K",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Alejandro Eduardo",
+        "apellido": "Martinez Gallardo ",
+        "rut": "7.127.431-4",
+        "rol": "Docente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Aljandra Anriette",
+        "apellido": "Urrutia Melendez ",
+        "rut": "15.053.785-1",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Miryam Jeannette",
+        "apellido": "Gonzalez Cortes ",
+        "rut": "8.307.375-6",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Maria Teresa",
+        "apellido": "Valera Lopez ",
+        "rut": "12.221.037-5",
+        "rol": "Docente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Leonardo Adrian",
+        "apellido": "Saavedra Berdeguer ",
+        "rut": "8.780.912-9",
+        "rol": "Docente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Fernanda Gabriela",
+        "apellido": "Godoi Godoy ",
+        "rut": "17.626.399-7",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Angelica Yanina",
+        "apellido": "Alvarez Jure",
+        "rut": "19.864.002-6",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Maria Loreto",
+        "apellido": "Diaz Villanueva",
+        "rut": "12.219.356-K",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Karen Constanza",
+        "apellido": "Muñoz Oñate ",
+        "rut": "16.444.022-2",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Jessica Alejandra",
+        "apellido": "Barraza Godoy ",
+        "rut": "11.380.418-1",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Mariela Eugenia",
+        "apellido": "Arcos Gonzalez ",
+        "rut": "9.803.815-9",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Luis Patricio",
+        "apellido": "Carmona Carmona ",
+        "rut": "9.923.432-6",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Vanessa De Lourdes",
+        "apellido": "Perez Lopez",
+        "rut": "16.818.723-8",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Horacio Eucario",
+        "apellido": "Contreras Torrejon",
+        "rut": "8.445.296-3",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Palmenia Jacquelyn",
+        "apellido": "Pizarro Campillay",
+        "rut": "10.716.102-3",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Patricio Alberto",
+        "apellido": "Contreras Torrejon",
+        "rut": "10.743.705-3",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Jaime Patricio",
+        "apellido": "Cortes Contreras ",
+        "rut": "7.128.450-6",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Hector Andres",
+        "apellido": "Piñones Gonzalez ",
+        "rut": "15.490.753-K",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Alejandra Estefania",
+        "apellido": "Saavedra Gonzalez ",
+        "rut": "19.342.344-2",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Tapia Araya ",
+        "apellido": "Felipe Antonio",
+        "rut": "19.358.531-0",
+        "rol": "Asistente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "Paulina Rebeca ",
+        "apellido": "Maldonado Saavedra ",
+        "rut": "16.054.172-5",
+        "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    }
+]
