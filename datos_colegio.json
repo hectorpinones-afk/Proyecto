@@ -5,15 +5,42 @@
         "rut": "12.569.518-3",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 1.0,
+        "usados": 2.0,
         "historial": [
             {
                 "fecha": "25-03-2026 al 25-03-2026",
                 "motivo": "Permiso Administrativo",
                 "cant": 1.0
+            },
+            {
+                "fecha": "26-03-2026 al 26-03-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 1.0
             }
         ],
-        "visible": false
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "7.0",
+                "out": "12.0"
+            },
+            "Martes": {
+                "in": "7.0",
+                "out": "13.0"
+            },
+            "Miércoles": {
+                "in": "7.0",
+                "out": "15.0"
+            },
+            "Jueves": {
+                "in": "7.0",
+                "out": "12.0"
+            },
+            "Viernes": {
+                "in": "7.0",
+                "out": "18.0"
+            }
+        }
     },
     {
         "nombre": "Angelica Del Carmen",
