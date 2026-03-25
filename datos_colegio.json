@@ -211,8 +211,14 @@
         "rut": "15.490.753-K",
         "rol": "Asistente",
         "icon": "👨‍🏫",
-        "usados": 0.0,
-        "historial": [],
+        "usados": 1.0,
+        "historial": [
+            {
+                "fecha": "25-03-2026 al 25-03-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 1.0
+            }
+        ],
         "visible": false
     },
     {
