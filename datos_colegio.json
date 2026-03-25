@@ -5,9 +5,15 @@
         "rut": "12.569.518-3",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 0.0,
-        "historial": [],
-        "visible": true
+        "usados": 1.0,
+        "historial": [
+            {
+                "fecha": "25-03-2026 al 25-03-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 1.0
+            }
+        ],
+        "visible": false
     },
     {
         "nombre": "Angelica Del Carmen",
