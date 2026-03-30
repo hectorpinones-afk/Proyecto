@@ -5,13 +5,8 @@
         "rut": "12.569.518-3",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 5.0,
+        "usados": 4.0,
         "historial": [
-            {
-                "fecha": "25-03-2026 al 25-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
             {
                 "fecha": "26-03-2026 al 26-03-2026",
                 "motivo": "Permiso Administrativo",
@@ -33,7 +28,7 @@
                 "cant": 1.0
             }
         ],
-        "visible": false,
+        "visible": true,
         "horario": {
             "Lunes": {
                 "in": "7.0",
@@ -71,7 +66,29 @@
                 "cant": 1.0
             }
         ],
-        "visible": false
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "",
+                "out": ""
+            },
+            "Martes": {
+                "in": "",
+                "out": ""
+            },
+            "Miércoles": {
+                "in": "",
+                "out": ""
+            },
+            "Jueves": {
+                "in": "",
+                "out": ""
+            },
+            "Viernes": {
+                "in": "",
+                "out": ""
+            }
+        }
     },
     {
         "nombre": "Maria Soledad",
