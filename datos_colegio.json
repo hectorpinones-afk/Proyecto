@@ -99,7 +99,29 @@
                 "cant": 1.0
             }
         ],
-        "visible": false
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "6:00",
+                "out": "15:00"
+            },
+            "Martes": {
+                "in": "6:00",
+                "out": "15:00"
+            },
+            "Miércoles": {
+                "in": "6:00",
+                "out": "15:00"
+            },
+            "Jueves": {
+                "in": "6:00",
+                "out": "15:00"
+            },
+            "Viernes": {
+                "in": "6:00",
+                "out": "15:00"
+            }
+        }
     },
     {
         "nombre": "Alejandro Eduardo",
