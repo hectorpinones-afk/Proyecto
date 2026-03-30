@@ -380,6 +380,28 @@
         "icon": "👨‍🏫",
         "usados": 0.0,
         "historial": [],
-        "visible": false
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "12:00",
+                "out": "18:00"
+            },
+            "Martes": {
+                "in": "12:00",
+                "out": "18:00"
+            },
+            "Miércoles": {
+                "in": "12:00",
+                "out": "18:00"
+            },
+            "Jueves": {
+                "in": "12:00",
+                "out": "18:00"
+            },
+            "Viernes": {
+                "in": "12:00",
+                "out": "18:00"
+            }
+        }
     }
 ]
