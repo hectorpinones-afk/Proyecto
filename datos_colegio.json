@@ -5,13 +5,8 @@
         "rut": "12.569.518-3",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 4.0,
+        "usados": 3.0,
         "historial": [
-            {
-                "fecha": "26-03-2026 al 26-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
             {
                 "fecha": "27-03-2026 al 27-03-2026",
                 "motivo": "Permiso Administrativo",
