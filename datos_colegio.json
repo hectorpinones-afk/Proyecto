@@ -162,7 +162,29 @@
         "icon": "👩‍🏫",
         "usados": 0.0,
         "historial": [],
-        "visible": false
+        "visible": false,
+        "horario": {
+            "Lunes": {
+                "in": "7:00",
+                "out": "15:00"
+            },
+            "Martes": {
+                "in": "7:00",
+                "out": "15:00"
+            },
+            "Miércoles": {
+                "in": "7:00",
+                "out": "15:00"
+            },
+            "Jueves": {
+                "in": "7:00",
+                "out": "15:00"
+            },
+            "Viernes": {
+                "in": "7:00",
+                "out": "15:00"
+            }
+        }
     },
     {
         "nombre": "Maria Teresa",
