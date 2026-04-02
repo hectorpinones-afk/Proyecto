@@ -13,7 +13,7 @@
                 "cant": 1.0
             }
         ],
-        "visible": true,
+        "visible": false,
         "horario": {
             "Lunes": {
                 "in": "7.0",
@@ -356,6 +356,16 @@
         "apellido": "Maldonado Saavedra ",
         "rut": "16.054.172-5",
         "rol": "Asistente",
+        "icon": "👩‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
+    },
+    {
+        "nombre": "sdfsf",
+        "apellido": "32131",
+        "rut": "2313123",
+        "rol": "Docente",
         "icon": "👩‍🏫",
         "usados": 0.0,
         "historial": [],
