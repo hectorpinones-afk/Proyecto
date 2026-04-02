@@ -348,37 +348,5 @@
         "usados": 0.0,
         "historial": [],
         "visible": false
-    },
-    {
-        "nombre": "pedrito",
-        "apellido": "pedron",
-        "rut": "11111111",
-        "rol": "Docente",
-        "icon": "👨‍🏫",
-        "usados": 0.0,
-        "historial": [],
-        "visible": false,
-        "horario": {
-            "Lunes": {
-                "in": "12:00",
-                "out": "18:00"
-            },
-            "Martes": {
-                "in": "12:00",
-                "out": "18:00"
-            },
-            "Miércoles": {
-                "in": "12:00",
-                "out": "18:00"
-            },
-            "Jueves": {
-                "in": "12:00",
-                "out": "18:00"
-            },
-            "Viernes": {
-                "in": "12:00",
-                "out": "18:00"
-            }
-        }
     }
 ]
