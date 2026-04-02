@@ -5,39 +5,8 @@
         "rut": "12.569.518-3",
         "rol": "Directivo",
         "icon": "👩‍🏫",
-        "usados": 6.0,
-        "historial": [
-            {
-                "fecha": "27-03-2026 al 27-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "19-03-2026 al 19-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "30-03-2026 al 30-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "31-03-2026 al 31-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "01-04-2026 al 01-04-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "02-04-2026 al 02-04-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            }
-        ],
+        "usados": 0.0,
+        "historial": [],
         "visible": false,
         "horario": {
             "Lunes": {
@@ -68,19 +37,8 @@
         "rut": "10.755.490-4",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 2.0,
-        "historial": [
-            {
-                "fecha": "25-03-2026 al 25-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "02-04-2026 al 02-04-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            }
-        ],
+        "usados": 0.0,
+        "historial": [],
         "visible": false,
         "horario": {
             "Lunes": {
@@ -111,14 +69,8 @@
         "rut": "9.675.308-K",
         "rol": "Docente",
         "icon": "👩‍🏫",
-        "usados": 1.0,
-        "historial": [
-            {
-                "fecha": "25-03-2026 al 25-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            }
-        ],
+        "usados": 0.0,
+        "historial": [],
         "visible": false,
         "horario": {
             "Lunes": {
@@ -149,19 +101,8 @@
         "rut": "7.127.431-4",
         "rol": "Docente",
         "icon": "👨‍🏫",
-        "usados": 2.0,
-        "historial": [
-            {
-                "fecha": "25-03-2026 al 25-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
-            {
-                "fecha": "26-03-2026 al 26-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            }
-        ],
+        "usados": 0.0,
+        "historial": [],
         "visible": false,
         "horario": {
             "Lunes": {
@@ -374,14 +315,8 @@
         "rut": "15.490.753-K",
         "rol": "Asistente",
         "icon": "👨‍🏫",
-        "usados": 1.0,
-        "historial": [
-            {
-                "fecha": "25-03-2026 al 25-03-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            }
-        ],
+        "usados": 0.0,
+        "historial": [],
         "visible": false
     },
     {
