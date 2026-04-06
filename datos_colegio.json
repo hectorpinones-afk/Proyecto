@@ -118,12 +118,17 @@
         "rut": "7.127.431-4",
         "rol": "Docente",
         "icon": "👨‍🏫",
-        "usados": 1.0,
+        "usados": 1.5,
         "historial": [
             {
                 "fecha": "06-04-2026 al 06-04-2026",
                 "motivo": "Permiso Administrativo",
                 "cant": 1.0
+            },
+            {
+                "fecha": "08-04-2026 al 08-04-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 0.5
             }
         ],
         "visible": false,
