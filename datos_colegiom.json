@@ -376,5 +376,15 @@
         "usados": 0.0,
         "historial": [],
         "visible": false
+    },
+    {
+        "nombre": "pepe",
+        "apellido": "ppipin",
+        "rut": "31231231",
+        "rol": "Docente",
+        "icon": "👨‍🏫",
+        "usados": 0.0,
+        "historial": [],
+        "visible": false
     }
 ]
