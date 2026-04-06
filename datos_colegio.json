@@ -376,15 +376,5 @@
         "usados": 0.0,
         "historial": [],
         "visible": false
-    },
-    {
-        "nombre": "sdfsf",
-        "apellido": "32131",
-        "rut": "2313123",
-        "rol": "Docente",
-        "icon": "👩‍🏫",
-        "usados": 0.0,
-        "historial": [],
-        "visible": false
     }
 ]
