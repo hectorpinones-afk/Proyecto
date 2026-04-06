@@ -13,10 +13,10 @@
                 "cant": 1.0
             }
         ],
-        "visible": true,
+        "visible": false,
         "horario": {
             "Lunes": {
-                "in": "7:00",
+                "in": "6:00",
                 "out": "15:00"
             },
             "Martes": {
@@ -380,6 +380,6 @@
         "icon": "👩‍🏫",
         "usados": 0.0,
         "historial": [],
-        "visible": true
+        "visible": false
     }
 ]
