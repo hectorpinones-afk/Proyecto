@@ -5,20 +5,15 @@
         "rut": "12.569.518-3",
         "rol": "Directivo",
         "icon": "👩‍🏫",
-        "usados": 2.0,
+        "usados": 1.0,
         "historial": [
-            {
-                "fecha": "03-04-2026 al 03-04-2026",
-                "motivo": "Permiso Administrativo",
-                "cant": 1.0
-            },
             {
                 "fecha": "02-04-2026 al 02-04-2026",
                 "motivo": "Permiso Administrativo",
                 "cant": 1.0
             }
         ],
-        "visible": false,
+        "visible": true,
         "horario": {
             "Lunes": {
                 "in": "7:00",
@@ -385,6 +380,6 @@
         "icon": "👩‍🏫",
         "usados": 0.0,
         "historial": [],
-        "visible": false
+        "visible": true
     }
 ]
