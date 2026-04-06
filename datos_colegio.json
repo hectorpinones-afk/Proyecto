@@ -18,7 +18,7 @@
                 "cant": 1.0
             }
         ],
-        "visible": true,
+        "visible": false,
         "horario": {
             "Lunes": {
                 "in": "7:00",
@@ -118,8 +118,14 @@
         "rut": "7.127.431-4",
         "rol": "Docente",
         "icon": "👨‍🏫",
-        "usados": 0.0,
-        "historial": [],
+        "usados": 1.0,
+        "historial": [
+            {
+                "fecha": "06-04-2026 al 06-04-2026",
+                "motivo": "Permiso Administrativo",
+                "cant": 1.0
+            }
+        ],
         "visible": false,
         "horario": {
             "Lunes": {
